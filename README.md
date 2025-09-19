@@ -9,7 +9,7 @@ Bizniz Quest is an interactive Reddit app that transforms professional networkin
 ## How to Play
 
 ### Step 1: Start Your Quest
-- Click the "Create Ask" button in r/BiznizQuest
+- Click the "Create your networking ask" button in r/BiznizQuest
 - The app will guide you through a series of choices to build your perfect networking post in seconds
 
 ### Step 2: Choose Your Role
